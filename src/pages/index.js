@@ -52,7 +52,7 @@ xl:!text=5xl lg:!text-center lg:!text=6xl md:!text-5xl sm:!text-3xl
           I’m a product enthusiast with a knack for turning insights into innovative solutions. Whether it’s refining user journeys, prioritizing features that drive growth, or analyzing data to uncover hidden opportunities, I thrive on bringing products to life. Dive into my portfolio to explore bold ideas, creative strategies, and the tangible results behind the products I’ve shaped.
           </p>
           <div className='flex items-center self-start mt-2 lg:self-center'>
-            <Link href="https://livejohnshopkins-my.sharepoint.com/:b:/g/personal/dchaudh7_jh_edu/EfRdAuCVX6tIoJ5_Fx5-Tp8B3SriBIuOpoV4InoxOE4aZA?e=IQmseh" target={'_blank'}
+            <Link href="https://livejohnshopkins-my.sharepoint.com/:b:/g/personal/dchaudh7_jh_edu/EUN_o2ckXeJLqFRcI-TQLukB2fhqECEjd1BaaF7bvSfakQ?e=aJqF1k" target={'_blank'}
             className='flex items-center bg-dark text-light p-2.5 px-6
             rounded-lg text-lg font-semibold hover:bg-light hover:text-dark
             border-2 border-solid border-transparent hover:border-dark
