@@ -74,22 +74,14 @@ const Experience = () => {
   />
   
   <Details
-    position="Product Analyst"
+    position="Associate Product Manager"
     company="Oracle"
     companyLink="www.oracle.com"
-    time="Sept 2023 – Jul 2024"
+    time="Jun 2023 – Jul 2024"
     address="Bangalore, India"
-    work="Led the development of three MVPs for hypothesis testing using A/B tests and success metrics, validating product-market fit and achieving a 23% boost in leads to the loan page from a 12,000/month baseline."
+    work="Led the development of three MVPs for hypothesis testing using A/B tests and success metrics, validating product-market fit. Collaborated with four cross-functional teams to optimize CRM functionality for the secured lending team, delivering an MVP within a quarter and increasing leads to the loan page by 23%. Conducted user funnel analysis, driving an 8% conversion uplift and $1M in additional revenue through A/B testing and BI insights. Partnered with design teams to analyze UX breakpoints, reducing customer drop-off by 13% and improving conversion rates. Redesigned the customer acquisition funnel with predictive risk factor analysis, cutting fraudulent loan applications by 18%. Worked with PM leads to execute Agile-driven roadmaps, achieving a 98% completion rate for consumer loan projects."
   />
   
-  <Details
-    position="Associate Consultant"
-    company="Oracle"
-    companyLink="www.oracle.com"
-    time="Jun 2023 – Sept 2023"
-    address="Bangalore, India"
-    work="Analyzed client requirements for Oracle FLEXCUBE and collaborated with product development to implement new features, achieving a 40% improvement in product efficiency and a significant reduction in support tickets."
-  />
   
   <Details
     position="Research Intern"
